@@ -69,3 +69,8 @@ You may know that it's difficult to discriminate generated time series data from
 
 # Authors
 Namju Kim (njkim@jamonglab.com) at Jamonglabs Co., Ltd.
+
+# Data
+
+http://www.nlotto.co.kr/gameResult.do?method=allWin
+1 ~ 741
